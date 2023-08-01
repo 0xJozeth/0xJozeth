@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFgK1gDwe4Bgw/profile-displaybackgroundimage-shrink_350_1400/0/1690860707639?e=1696464000&v=beta&t=JUOaWR-4L6iwNHxIdjt2wfsQAMMKqZWgIDUb95pxLaI" alt="cover-photo" width="1594" />
 
-<h1 align="center">Hi 👋, I'm Glen (Joseph) Graham</h1>
-<h3 align="center">A humble full stack developer from NYC 🗽</h3>
+<h1 align="center">Hello World 👋 </h1>
+<h3 align="center">I'm Glen (Joseph) Graham, a full stack developer from NYC 🗽 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjozeth&label=Profile%20views&color=0e75b6&style=flat" alt="0xjozeth" /> </p>
 
