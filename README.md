@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
 
-- 🌱 I’m currently learning **to build and incorporate AI in SaaS applications. To accomplish this, my current project is utilizing the following languages: Vite, TypeScript, ThirdWeb, PostgreSQL, Prisma and Next.js**
+- 🌱 I’m currently learning **to build and incorporate AI in SaaS applications. To accomplish this, my current project is utilizing OpenAI's APIs and the following frameworks and technologies: Vite, Redux, React, and TailwindCSS. **
 
 - 👯 I’m looking to collaborate on [DealDashPro](https://github.com/0xJozeth/DealDashPro) - an all-in-one real estate suite for sourcing deals. I will begin development on this project once Summarly has been completed.
 
