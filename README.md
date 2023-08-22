@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to build and incorporate AI in SaaS applications. To accomplish this, my current project is utilizing the following languages: Vite, TypeScript, ThirdWeb, PostgreSQL, Prisma and Next.js**
 
-- 👯 I’m looking to collaborate on [DealDashPro - an all-in-one real estate suite for sourcing deals.](https://github.com/0xJozeth/DealDashPro)
+- 👯 I’m looking to collaborate on [DealDashPro](https://github.com/0xJozeth/DealDashPro) - an all-in-one real estate suite for sourcing deals. I will begin development on this project once Summarly has been completed.
 
 - 👨‍💻 All of my projects are available at [https://glengraham.xyz](https://glengraham.xyz)
 
