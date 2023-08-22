@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://glengraham.xyz/resume)
 
-- ⚡ Fun fact(s) **I've traveled to Roatan, Honduras, Jamaica, and Aruba! I've scuba dived to 20M+. Once swam with a shark 🦈 in Tampa, FL.**
+- ⚡ Fun fact(s) **I've traveled to Roatan, Honduras, Jamaica, and Aruba! I've scuba dived to 20M+. Once swam with a shark 🦈 in a tank in Tampa, FL at the The Florida Aquarium.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
