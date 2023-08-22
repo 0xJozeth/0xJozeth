@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **glen.f.graham@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://glengraham.xyz/resume)
+- 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://linkedin.com/in/glenfgraham)
 
 - ⚡ Fun fact(s) **I've traveled to Roatan, Honduras, Jamaica, and Aruba! I've scuba dived to 20M+. Once swam with a shark 🦈 in a tank in Tampa, FL at the The Florida Aquarium.**
 
