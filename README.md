@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://glengraham.xyz](https://glengraham.xyz)
 
-- 💬 Ask me about **Next.js and TailwindCSS!**
+- 💬 Ask me about **React and TailwindCSS!**
 
 - 📫 How to reach me **glen.f.graham@gmail.com**
 
-- 📄 Know about my experiences [https://glengraham.xyz/resume](https://glengraham.xyz/resume)
+- 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://glengraham.xyz/resume)
 
 - ⚡ Fun fact(s) **I've traveled to Roatan, Honduras, Jamaica, and Aruba! I've scuba dived to 20M+. Once swam with a shark 🦈 in Tampa, FL.**
 
