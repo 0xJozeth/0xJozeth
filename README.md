@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning to **build and incorporate AI in SaaS applications.** To accomplish this, my current project is utilizing OpenAI's APIs and the following frameworks and technologies: Vite, Redux, React, and TailwindCSS.
 
-- 👯 I’m looking to collaborate on [DealDashPro](https://github.com/0xJozeth/DealDashPro) - an all-in-one real estate suite for sourcing deals. I will begin development on this project once Summarly has been completed.
-
 - 👨‍💻 All of my projects are available at [https://glengraham.xyz](https://glengraham.xyz)
 
 - 💬 Ask me about **React and TailwindCSS!**
