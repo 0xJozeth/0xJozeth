@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjozeth&label=Profile%20views&color=0e75b6&style=flat" alt="0xjozeth" /> </p>
 
-- 🔭 I’m currently working on [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
+- 🔭 Currently working on [Summarly](https://github.com/0xJozeth/Bloggie) - a scalable, ASP.NET Core website using the ASP.NET MVC framework + CRUD actions.
+
+- 🤖 Just finished working on [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
 
 - 🌱 I’m currently learning to **build and incorporate AI in SaaS applications.** To accomplish this, my current project is utilizing OpenAI's APIs and the following frameworks and technologies: Vite, Redux, React, and TailwindCSS.
 
