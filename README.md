@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHSxwI6FWeJ0A/profile-displaybackgroundimage-shrink_350_1400/0/1693933021170?e=1699488000&v=beta&t=rTEn_Wr6LXXsXY81ElMRcYfayg4iKveSlgP_CQAv1-g" alt="cover-photo" width="1594" />
+<img src="https://media.licdn.com/dms/image/D4E16AQG0mznYNCrHGA/profile-displaybackgroundimage-shrink_350_1400/0/1694208532090?e=1700092800&v=beta&t=AsmG1Sscoee8y42VP6WOOkKBY_PXoGWF6KlziTbqkuA" alt="cover-photo" width="1594" />
 
 <h1 align="center">Hello World 👋 </h1>
 <h3 align="center">I'm Glen (Joseph) Graham, a full stack developer from NYC 🗽 </h3>
