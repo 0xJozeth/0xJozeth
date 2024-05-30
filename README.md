@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning to **build and incorporate AI in SaaS applications.** To accomplish this, my current project is utilizing OpenAI's APIs and the following frameworks and technologies: Vite, Redux, React, and TailwindCSS.
 
-- 👨‍💻 All of my projects are available at [https://glengraham.xyz](https://glengraham.xyz)
+- 👨‍💻 All of my projects are available at [https://glengraham.vercel.app](https://glengraham.vercel.app)
 
 - 💬 Ask me about **React and TailwindCSS!**
 
