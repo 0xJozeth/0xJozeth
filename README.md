@@ -1,15 +1,15 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQEiVn07gsn3Ag/profile-displaybackgroundimage-shrink_350_1400/0/1716389119367?e=1722470400&v=beta&t=z7kJL-erlIXWshEIQUNOob1MMUuhxDOh3gDL93Zln_0" alt="cover-photo" width="1594" />
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQEiVn07gsn3Ag/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716389119367?e=1743638400&v=beta&t=y1kEBshtQZkmFAkqDvVXyft-g1BcHfSjkysoUFDHIBY)" alt="cover-photo" width="1594" />
 
 <h1 align="center">Hello World 👋 </h1>
 <h3 align="center">I'm Glen (Joseph) Graham, a full stack developer from NYC 🗽 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjozeth&label=Profile%20views&color=0e75b6&style=flat" alt="0xjozeth" /> </p>
 
-- 🔭 Currently working on [DealDashPro](https://github.com/0xJozeth/DealDashPro) - SaaS product helping real estate professionals find opportunities in their target markets. Built with Typescript, Prisma, tRPC, mySQL, TailwindCSS.
+- 🔭 Currently working on a [DeepSeek VS Code Extension](https://github.com/0xJozeth/DealDashPro) - An interactive VS Code extension that integrates with Ollama's AI models to provide a seamless chat experience. Users can submit queries and receive real-time responses directly within VS Code's webview panel. Built with Typescript and styled with CSS.
 
-- 🤖 Just finished working on [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
+- 🤖 Another notable project: [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
 
-- 🌱 I’m currently learning to **build and incorporate AI in SaaS applications.** To accomplish this, my current project is utilizing OpenAI's APIs and the following frameworks and technologies: Vite, Redux, React, and TailwindCSS.
+- 🌱 I’m currently learning to **build and incorporate AI in SaaS applications.** To accomplish this, my recent projects utilize Ollama, DeepSeek and OpenAI's APIs. Additionally, I am using the following frameworks and technologies: Vite, Redux, React, and TailwindCSS.
 
 - 👨‍💻 All of my projects are available at [https://glengraham.vercel.app](https://glengraham.vercel.app)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://linkedin.com/in/glenfgraham)
 
-- ⚡ Fun fact(s) **I've traveled to Roatan, Honduras, Jamaica, and Aruba! I've scuba dived to 20M+. Once swam with a shark 🦈 in a tank in Tampa, FL at the The Florida Aquarium.**
+- ⚡ Fun fact(s) **I've traveled to Canada, Aruba, Jamaica and I've scuba dived to 20M+ in Roatan, Honduras.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
