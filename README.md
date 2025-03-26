@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjozeth&label=Profile%20views&color=0e75b6&style=flat" alt="0xjozeth" /> </p>
 
-- 🔭 Currently working on a [DeepSeek VS Code Extension](https://github.com/0xJozeth/DealDashPro) - An interactive VS Code extension that integrates with Ollama's AI models to provide a seamless chat experience. Users can submit queries and receive real-time responses directly within VS Code's webview panel. Built with Typescript and styled with CSS.
+- 🔭 Currently working on a [DeepSeek VS Code Extension](https://github.com/0xJozeth/DealDashPro) - An interactive VS Code extension that integrates with Ollama's AI models to provide a seamless chat experience. Users can submit queries and receive real-time responses directly within VS Code's webview panel.
 
 - 🤖 Another notable project: [Summarly](https://github.com/0xJozeth/Summarly) - a simple summary generator using AI technology. Simply paste in a link to an article and watch it summarize it for you in seconds!
 
