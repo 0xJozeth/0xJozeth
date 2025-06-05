@@ -10,7 +10,7 @@
 
 Tech Stack:
 
-- Frontend: Next.js (with React) and TypeScript for a type-safe, performant user interface.
+- Frontend: Next.js (with React) and TypeScript for a type-safe user interface.
 - Hosting: AWS Amplify for staging. 
 - Styling: Tailwind CSS for utility-first styling.
 - API: tRPC for end-to-end typesafe APIs.
@@ -19,6 +19,7 @@ Tech Stack:
 - File Uploads: UploadThing for handling file storage.
 - Mapping: Google Maps API for interactive map features.
 - Email Services: Resend for reliable email delivery.
+- Text Messaging: Twilio for transactional text messaging.
 
 <h2 align="center">DealDashPro (⚠️ work-in-progress)</h2>
 
