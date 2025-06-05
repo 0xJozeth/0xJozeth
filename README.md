@@ -22,7 +22,7 @@ Tech Stack:
 
 <h2 align="center">DealDashPro (⚠️ work-in-progress)</h2>
 
-<div align="center">![DealDashPro Demo](https://github.com/0xJozeth/0xJozeth/blob/main/ddp_demo_gif_1.gif?raw=true)</div>
+![DealDashPro Demo](https://github.com/0xJozeth/0xJozeth/blob/main/ddp_demo_gif_1.gif?raw=true)
 
 <h2 align="center">Past Projects</h2>
 
