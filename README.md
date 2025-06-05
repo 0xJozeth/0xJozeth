@@ -5,7 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xjozeth&label=Profile%20views&color=0e75b6&style=flat" alt="0xjozeth" /> </p>
 
+
+- 🏡 I'm currently build DealDashPro, a Deal Management Platform. It's a comprehensive application designed to help investor find a source deals online and streamline their business operations. It provides a rich dashboard interface for tracking leads, managing properties, handling offers, facilitating secure communication, and analyzing key performance indicators. Core features include interactive property mapping, document uploads, robust user and company account management, and integrated email notifications.
+
+Tech Stack:
+
+Frontend: Next.js (with React) and TypeScript for a type-safe, performant user interface.
+Styling: Tailwind CSS for utility-first styling.
+API: tRPC for end-to-end typesafe APIs.
+Database ORM: Prisma for intuitive database access.
+Authentication: Kinde for secure and easy user authentication.
+File Uploads: UploadThing for handling file storage.
+Mapping: Google Maps API for interactive map features.
+Email Services: Resend for reliable email delivery (supported by src/server/services/emailService.ts).
+
+<h2 align="center">DealDashPro (⚠️ work-in-progress)</h2>
 ![DealDashPro Demo](https://github.com/0xJozeth/0xJozeth/blob/main/ddp_demo_gif_1.gif?raw=true)
+
+<h2 align="center">Past Projects</h2>
 
 - 🔭 Created a [DeepSeek VS Code Extension](https://github.com/0xJozeth/DealDashPro) - An interactive VS Code extension that integrates with Ollama's AI models to provide a seamless chat experience. Users can submit queries and receive real-time responses directly within VS Code's webview panel.
 
