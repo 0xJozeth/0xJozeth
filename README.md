@@ -11,6 +11,7 @@
 Tech Stack:
 
 - Frontend: Next.js (with React) and TypeScript for a type-safe, performant user interface.
+- Hosting: AWS Amplify for staging. 
 - Styling: Tailwind CSS for utility-first styling.
 - API: tRPC for end-to-end typesafe APIs.
 - Database ORM: Prisma for intuitive database access.
@@ -37,7 +38,7 @@ Tech Stack:
 
 - 📫 How to reach me **glen.f.graham@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/glenfgraham](https://linkedin.com/in/glenfgraham)
+- 📄 Learn more about my experiences [https://linkedin.com/in/glenfgraham](https://linkedin.com/in/glenfgraham)
 
 - ⚡ Fun fact(s) **I've traveled to Canada, Aruba, Jamaica and I've scuba dived to 20M+ in Roatan, Honduras.**
 
