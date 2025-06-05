@@ -18,7 +18,7 @@ Tech Stack:
 - Authentication: Kinde for secure and easy user authentication.
 - File Uploads: UploadThing for handling file storage.
 - Mapping: Google Maps API for interactive map features.
-- Email Services: Resend for reliable email delivery (supported by src/server/services/emailService.ts).
+- Email Services: Resend for reliable email delivery.
 
 <h2 align="center">DealDashPro (⚠️ work-in-progress)</h2>
 
